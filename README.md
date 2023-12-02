@@ -13,7 +13,7 @@ Através do upload de arquivos no formato '.xlsx', os usuários podem facilmente
 
 Para instalar o **Rub Import**, siga estas etapas:
 
-1. [Download](drive.google.com/u/0/uc?id=10dmEy-ldUcgKR7LYuU44kibpGbB9kRsH&export=download)
+1. [Download](https://drive.google.com/u/0/uc?id=10dmEy-ldUcgKR7LYuU44kibpGbB9kRsH&export=download)
 2. Execute o instalador e siga as instruções na tela.
 
 ## Modelos de Planilha 📊
