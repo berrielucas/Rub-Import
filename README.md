@@ -1,5 +1,6 @@
 ![Logo](./assets/logo-rub-import.png)
 
+
 Bem-vindo ao **Rub Import** - Sua solução eficiente para importação em massa de cursos e ofertas educacionais para o CRM!
 
 ## Sobre 📚
@@ -19,8 +20,8 @@ Para instalar o **Rub Import**, siga estas etapas:
 
 Para facilitar a preparação dos seus dados, fornecemos modelos de planilha para cursos e ofertas:
 
-- [Modelo de Planilha para Cursos](link_para_modelo_curso)
-- [Modelo de Planilha para Ofertas](link_para_modelo_oferta)
+- [Modelo de Planilha para Cursos](https://docs.google.com/spreadsheets/d/10aFLe_ksrdlwmOY-8jUhWdUA7fP93AfAy_ncLWPh24c/edit?usp=sharing)
+- [Modelo de Planilha para Ofertas](https://docs.google.com/spreadsheets/d/1pC2kkXRw2j5cBaZewgJ0K8vX7UrMnipUTUpz5L5YC3w/edit?usp=sharing)
 
 Certifique-se de seguir o formato fornecido nos modelos para garantir uma importação suave.
 
@@ -31,9 +32,22 @@ Antes de começar, é necessário autenticar-se na aplicação. Siga estes passo
 1. Acesse a tela de login.
 2. Informe o link da base (CRM), a chave de autenticação (token), e o número de origem que identifica o canal na base.
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <img src="./assets/tela-login-light.png" alt="Tema Claro" width="45%">
+  <img src="./assets/tela-login-dark.png" alt="Tema Escuro" width="45%">
+</div>
+
 ## Passo 2: Navegação na Tela Inicial 🏠
 
-Após a autenticação bem-sucedida, você será direcionado para a tela inicial, que oferece uma experiência intuitiva e amigável. Aqui estão as principais funcionalidades:
+Após a autenticação bem-sucedida, você será direcionado para a tela inicial, que oferece uma experiência intuitiva e amigável.
+
+<div style="display: flex; justify-content: center; text-align: center; gap: 40px;">
+  <img src="./assets/tela-inicial-light.png" alt="Tema Claro" width="90%">
+  <img src="./assets/tela-inicial-dark.png" alt="Tema Escuro" width="90%">
+</div>
+
+
+Aqui estão as principais funcionalidades:
 
 ### Menu Lateral Esquerdo 📂
 
@@ -46,13 +60,27 @@ Após a autenticação bem-sucedida, você será direcionado para a tela inicial
 - **Opção de Geração Automática de Código**: Ative o switch para gerar automaticamente códigos.
 - **Terminal de Status**: Acompanhe o status da importação em tempo real.
 
+
+
 ### Configurações Específicas para Oferta (Lateral Direita) ⚙️
 
 - **Seleção de Unidade, Nível de Ensino, Modalidade e Local de Oferta**: Configurações específicas para ofertas educacionais.
 
-### Tab Geral ⚙️
+<div style="display: flex; text-align: center; gap: 40px;">
+  <img src="./assets/configuracao-light.png" alt="Tema Claro" width="45%">
+  <img src="./assets/configuracao-dark.png" alt="Tema Escuro" width="45%">
+</div>
 
-- **Informações de Destino**: Edite informações essenciais, como link, token e origem diretamente.
+### Configurações Gerais ⚙️
+
+- **Informações de Destino**: Edite informações essenciais como token e origem diretamente na aplicação, sem precisar logar novamente.
+
+<div style="display: flex; text-align: center; gap: 40px;">
+  <img src="./assets/geral-destrancado-light.png" alt="Tema Claro" width="45%">
+  <img src="./assets/geral-destrancado-dark.png" alt="Tema Escuro" width="45%">
+</div>
+
+Para alterar as informações, basta clicar sobre o cadeado na parte superior direita para desbloquear os campos, e após fazer a alteração clica em "Salvar", para concluir as alterações.
 
 ## Como Usar ▶️
 
@@ -61,6 +89,20 @@ Após a autenticação bem-sucedida, você será direcionado para a tela inicial
 3. Faça o upload do arquivo contendo os dados desejados.
 4. Acompanhe o status da importação no terminal.
 5. Personalize as configurações adicionais conforme a necessidade.
+
+## Boas Práticas 🌟
+
+Aqui estão algumas dicas úteis para aproveitar ao máximo o **Rub Import**:
+
+1. **Prepare Seus Dados:** Certifique-se de que seus arquivos de planilha estão formatados corretamente antes da importação para evitar problemas durante o processo.
+
+2. **Aproveite os Modelos:** Use nossos modelos de planilha fornecidos para garantir que seus dados estejam no formato certo.
+
+2. **Acompanhe o Status:** Utilize o terminal de status na área principal para acompanhar o progresso das importações. Se ocorrer erros basta abrir sua planinha novamente, que o status de cada item estará na coluna 'D'.
+
+5. **Teste em Ambiente de Desenvolvimento:** Antes de realizar importações em larga escala, faça testes em um ambiente de desenvolvimento para garantir que tudo funcione conforme esperado.
+
+6. **Contribua para o Desenvolvimento:** Se encontrar problemas ou tiver sugestões, sinta-se à vontade para contribuir para o desenvolvimento do **Rub Import**.
 
 ## Contribuição 🤝
 
