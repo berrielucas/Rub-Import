@@ -15,6 +15,11 @@ Para instalar o **Rub Import**, siga estas etapas:
 
 1. [Download](Instalar-Rub-Import.exe)
 2. Execute o instalador e siga as instruções na tela.
+3. Para que a instalação seja bem sucedida, crie uma nova pasta no 'Disco Local', para ser o local do executável.
+
+**Importante:**
+- Não instale em 'Arquivos e Programa', a aplicação pode não executar corretamente.
+- Crie um atalho para sua Área de Trabalho
 
 ## Modelos de Planilha 📊
 
