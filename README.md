@@ -13,7 +13,7 @@ Através do upload de arquivos no formato '.xlsx', os usuários podem facilmente
 
 Para instalar o **Rub Import**, siga estas etapas:
 
-1. [Download](Instalar-Rub-Import.exe)
+1. [Download](Instalar-Rub.zip)
 2. Execute o instalador e siga as instruções na tela.
 3. Para que a instalação seja bem sucedida, crie uma nova pasta no 'Disco Local', para ser o local do executável.
 
