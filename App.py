@@ -294,9 +294,9 @@ class App(ctk.CTk):
         self.scaling_optionemenu.grid(row=7, column=0, padx=20, pady=(5, 15))
 
         self.label_oferta_pai = ctk.CTkLabel(self.menu_frame, text='Documentação', font=('Roboto',14))
-        self.label_oferta_pai.grid(column=0, row=8, padx=(20,0), pady=(5,20), sticky='w')
-        self.label_oferta = ctk.CTkButton(self.menu_frame, text='AQUI', command=abrirUrl, fg_color='transparent', hover='transparent', text_color='blue', width=20, font=('Roboto',14,'bold'))
-        self.label_oferta.grid(column=0, row=8, padx=(115,0), pady=(5, 20), sticky='w')
+        self.label_oferta_pai.grid(column=0, row=8, padx=(17,0), pady=(5,20), sticky='w')
+        self.label_oferta = ctk.CTkButton(self.menu_frame, text='AQUI', command=abrirUrl, fg_color='transparent', hover='transparent', text_color='blue', width=15, font=('Roboto',14,'bold'))
+        self.label_oferta.grid(column=0, row=8, padx=(0,17), pady=(5, 20), sticky='e')
 
 
         # Escolher arquivo
