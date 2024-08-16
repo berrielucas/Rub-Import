@@ -111,8 +111,8 @@ Aqui estão algumas dicas úteis para aproveitar ao máximo o **Rub Import**:
 
 ## Contribuição 🤝
 
-Sinta-se à vontade para contribuir para o desenvolvimento do **Rub Import**! Confira nossas [diretrizes de contribuição](CONTRIBUTING.md) para mais detalhes.
+Sinta-se à vontade para contribuir para o desenvolvimento do **Rub Import**! Confira nossas [diretrizes de contribuição](README.md) para mais detalhes.
 
 ## Problemas e Suporte 🚨
 
-Encontrou um problema ou precisa de ajuda? Relate [aqui](https://github.com/seu-usuario/rub-import/issues).
+Encontrou um problema ou precisa de ajuda? Relate [aqui](https://github.com/seu-usuario/rub-import/).
