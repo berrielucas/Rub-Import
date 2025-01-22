@@ -106,13 +106,3 @@ Aqui estão algumas dicas úteis para aproveitar ao máximo o **Rub Import**:
 2. **Acompanhe o Status:** Utilize o terminal de status na área principal para acompanhar o progresso das importações. Se ocorrer erros basta abrir sua planinha novamente, que o status de cada item estará na coluna 'D'.
 
 5. **Teste em Ambiente de Desenvolvimento:** Antes de realizar importações em larga escala, faça testes em um ambiente de desenvolvimento para garantir que tudo funcione conforme esperado.
-
-6. **Contribua para o Desenvolvimento:** Se encontrar problemas ou tiver sugestões, sinta-se à vontade para contribuir para o desenvolvimento do **Rub Import**.
-
-## Contribuição 🤝
-
-Sinta-se à vontade para contribuir para o desenvolvimento do **Rub Import**! Confira nossas [diretrizes de contribuição](README.md) para mais detalhes.
-
-## Problemas e Suporte 🚨
-
-Encontrou um problema ou precisa de ajuda? Relate [aqui](https://github.com/seu-usuario/rub-import/).
